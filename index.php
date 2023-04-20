@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>Buenas soy Davor</h1>
-  <h2>ChoicesPracticas Profesionalizantes</2>
+  <h2>Vamos riveeeer</2>
 </body>
 </html>
