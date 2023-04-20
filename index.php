@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>Buenas soy Davor</h1>
-  <h2>Vamos riveeeer</2>
+  <h2>Vamos riveeeer</h2>
 </body>
 </html>
